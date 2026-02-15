@@ -8,7 +8,7 @@
 ## Skills I'm Building
 - HTML/CSS
 - Javascript
-- API Intergration
+- API Integration
 - Git
 - Github
 
