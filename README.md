@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm MARTIN MBURU KINYANJUI
 
-<!--
-**bpitchzib/bpitchzib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Civil Engineering.
+- I'm interested in AI, web development, and ethical hacking.
+- I'm looking to collaborate on "A community -driven lyrics platform similar to Genius, focusing on crowdsourced annotations and music metadata.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- HTML/CSS
+- Javascript
+- API Intergration
+- Git
+- Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Gema Musix]— (In Progress) A community-driven lyrics website similar to Genius and Musixmatch
+
+## How to Reach Me
+- Email: martinmburu916@gmail.com
+- LinkedIn: https://www.linkedin.com/in/martin-mburu-395a753b0
