@@ -29,9 +29,9 @@ Here is a useful website I use for learning:
 - Python programming
 
 ### Steps to Make a Commit in Git
-1. Stage your changes (`git add .`)
-2. Commit the changes (`git commit -m "message"`)
-3. Push to GitHub (`git push`)
+1. Stage your changes `git add .`
+2. Commit the changes `git commit -m "message"`
+3. Push to GitHub `git push`
 
 ---
 
@@ -57,10 +57,10 @@ Here is a useful website I use for learning:
 ## Exercise 7 — Code Block
 
 ```python
-def greet(name):
-    print(f"Hello, {name}! Welcome to GitHub.")
+def greet(bpitchzib):
+    print f"Hello, name! Welcome to GitHub."
 
-greet("Student")
+greet "bpitchzib"
 
 
 ## Exercise 8 — Blockquote
